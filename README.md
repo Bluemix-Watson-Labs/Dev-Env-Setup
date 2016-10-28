@@ -40,6 +40,8 @@ Pre-requisite development environment steps to follow before working on any of t
   * Verify the installation by typing `node -v` or `npm -v` in Git Bash/Terminal
 
 8. [Install Python 2.7](https://www.python.org/downloads/)
+ * Veryify the version in your terminal (GitBash in Windows, terminal in Mac): 'python --version'
+ 
 9. Provision Alchemy. 
   * After signing into Bluemix, click on "Catalog" in the top right hand corner.  
   * Then click on "Watson" in the left hand bar.
