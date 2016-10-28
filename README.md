@@ -1,9 +1,9 @@
 # Dev-Env-Setup
 Pre-requisite development environment steps to follow before working on any of the labs
 
-1. Bluemix Registration
+1. Bluemix Registration - MOST IMPORTANT STEP, MUST-DO
    * Sign up for Bluemix at www.bluemix.net with IBM email address.
-   * Increase your Bluemix services and memory. Specificallly: request 4 GB of memory and 15 services, plus 6 month access to Bluemix (for IBMers only). You can use either of the two methods:
+   * Increase your Bluemix services and memory. Specifically: request 4 GB of memory and 15 services, plus 6 month access to Bluemix (for IBMers only). You can use either of the two methods:
       * Fill out [this form](https://ibm.biz/bluemixsupport), or
       * Submit a new ticket through the [Client Success Portal](https://support.ibmcloud.com/ics/support/mylogin.asp?login=bluemix)
 
@@ -40,7 +40,10 @@ Pre-requisite development environment steps to follow before working on any of t
   * Verify the installation by typing `node -v` or `npm -v` in Git Bash/Terminal
 
 8. [Install Python 2.7](https://www.python.org/downloads/)
-9. Provision alchemy.
+9. Provision Alchemy. 
+  * After signing into Bluemix, click on "Catalog" in the top right hand corner.  
+  * Then click on "Watson" in the left hand bar.
+  * Click on Alchemy and "create." 
 
 ## References:
 1. https://docs.npmjs.com/getting-started/installing-node
