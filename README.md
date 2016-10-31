@@ -42,12 +42,16 @@ Note: If you have any questions about anything here, post it in the #general cha
   * Verify the installation by typing `node -v` or `npm -v` in Git Bash/Terminal
 
 8. [Install Python 2.7](https://www.python.org/downloads/)
- * Veryify the version in your terminal (GitBash in Windows, terminal in Mac): 'python --version'
+ * Verify the version in your terminal (GitBash in Windows, terminal in Mac): 'python --version'
  
 9. Provision Alchemy. 
   * After signing into Bluemix, click on "Catalog" in the top right hand corner.  
   * Then click on "Watson" in the left hand bar.
-  * Click on Alchemy and "create." 
+  * Click on Alchemy and "create."
+  
+## Optional steps / Nice to haves
+
+1. Install [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 
 ## References:
 1. https://docs.npmjs.com/getting-started/installing-node
