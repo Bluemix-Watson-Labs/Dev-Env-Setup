@@ -1,6 +1,8 @@
 # Dev-Env-Setup
 Pre-requisite development environment steps to follow before working on any of the labs
 
+Note: If you have any questions about anything here, post it in the #general channel of the [https://watson-dev.slack.com](Watson Dev) Slack team. You should have an invite to it in your email. If you don't, open an issue [here](https://github.com/Bluemix-Watson-Labs/Dev-Env-Setup/issues) with your IBM email to be added. Note: you must have already registered with Github.
+
 1. Bluemix Registration - MOST IMPORTANT STEP, MUST-DO
    * Sign up for Bluemix at www.bluemix.net with IBM email address.
    * Increase your Bluemix services and memory. Specifically: request 4 GB of memory and 15 services, plus 6 month access to Bluemix (for IBMers only). You can use either of the two methods:
