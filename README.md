@@ -48,6 +48,15 @@ Note: If you have any questions about anything here, post it in the #general cha
   * After signing into Bluemix, click on "Catalog" in the top right hand corner.  
   * Then click on "Watson" in the left hand bar.
   * Click on Alchemy and "create."
+
+10. Create an `Internet of Thing Platform Starter` Boilerplate App and fix their boilerplate code.
+    * Go to the Boilerplate section of the Catalog [here](https://console.ng.bluemix.net/catalog/?category=blueprints&taxonomyNavigation=apps) and create an app (give it a name, etc).
+    * Once created, go to the overview tab on the left, scroll down and on the bottom right `Enable` Continuous Delivery
+    * Ensure you `Authorize` Continuous Delivery to use your GitHub account for source control and then `Create` the toolchain
+    * Once configured, click on the GitHub tile and then click on the `package.json` file
+    * Edit the node engine, changing it from `4.x` to `6.x` and then commit that change.
+    * You may watch the code be delivered through the pipeline tool in the toolchain.
+    * You now have a working Boilerplate to do all following node red labs with.
   
 ## Optional steps / Nice to haves
 
